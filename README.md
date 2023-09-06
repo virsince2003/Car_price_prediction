@@ -37,3 +37,4 @@ And you are good to go.
     Link for notebook: https://github.com/virsince2003/Car_price_prediction/tree/main/notebook
 
 4. This project is about making a website built on  Flask where we used the Linear Regression model to perform predictions.
+    Link for Flask Application: https://github.com/virsince2003/Car_price_prediction/blob/main/app.py
