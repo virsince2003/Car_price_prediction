@@ -28,7 +28,7 @@ And you are good to go.
 
 ## How does this project do?
 
-1. First of all the data was scraped from Quikr.com, which has data till year 2019. (https://quikr.com) 
+1. First of all the data was scraped from Quikr.com, which has data till year 2019. (https://quikr.com).
     Link for data: https://github.com/virsince2003/Car_price_prediction/blob/main/dataset/quikr_car.csv
 2. The data was cleaned (it was very unclean :( ) and analysed.
 
