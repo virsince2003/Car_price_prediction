@@ -16,7 +16,10 @@ Some packages are:
  - Pandas 
  - sci-kit-learn
 
-3. Run the ``` python app.py``` file
+3. Run the file
+4.   ```
+5.    python app.py
+6.   ``` 
 And you are good to go. 
 
 # Description
