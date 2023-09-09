@@ -17,8 +17,8 @@ Some packages are:
  - sci-kit-learn
 
 3. Run the file
-4.   ```python app.py ``` 
-And you are good to go. 
+4.   ```python app.py ```
+    And you are good to go. 
 
 # Description
 
