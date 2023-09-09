@@ -18,7 +18,7 @@ Some packages are:
 
 3. Run the file
 4.   ```   python app.py   ```
-    And you are good to go. 
+5.  And you are good to go. 
 
 # Description
 
