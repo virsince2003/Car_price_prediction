@@ -17,8 +17,10 @@ Some packages are:
  - sci-kit-learn
 
 3. Run the file
-   ```   python app.py   ```
-5.  And you are good to go. 
+   ```
+   python app.py
+   ```
+    And you are good to go. 
 
 # Description
 
